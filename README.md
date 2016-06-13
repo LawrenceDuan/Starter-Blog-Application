@@ -8,7 +8,7 @@
 ### CSS： w3school，《精通CSS》
 ### CSS3：《CSS3实用指南》
 
-### JavaScript：w3school，《JavaScript精粹》，JS函数式编程（http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/）
+### JavaScript：w3school，《JavaScript精粹》，JS函数式编程 http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/
 
 ### dom：《dom编程艺术》
 
